@@ -5,6 +5,7 @@ public class App {
 	public static void main(String[] args) {
 		
 		//Comentari1
+		//Comentari2
 		int numero = 0;
 		boolean soc_Ric = true;
 
