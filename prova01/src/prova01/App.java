@@ -6,6 +6,7 @@ public class App {
 		
 		//Comentari1
 		//Comentari2
+		//Comentari123
 		int numero = 0;
 		boolean soc_Ric = true;
 
